@@ -1,6 +1,6 @@
 const API_USED = {
 	SOCKET_CONSTANTS:{
-		STOCKS_TOPIC_ID: 45,
+		STOCKS_TOPIC_ID: 9484,
         CRYPTO_TOPIC_ID: 2449,
         BINANCE_BTC_SOCKET: "wss://stream.binance.com:9443/ws/btcusdt@kline_1s",
     },
